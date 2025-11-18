@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation action="DELETE" element="u_2" label="タスク拡張２専用カラム" language="ja" table="x_1781293_test2_task_test_1">
+        <sys_documentation action="DELETE">
+            <element>u_2</element>
+            <help/>
+            <hint/>
+            <label>タスク拡張２専用カラム</label>
+            <language>ja</language>
+            <name>x_1781293_test2_task_test_1</name>
+            <plural>タスク拡張２専用カラム</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+            <sys_created_on>2025-11-07 02:08:46</sys_created_on>
+            <sys_id>cecc09f583057210c386e5d0deaad38a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>タスク拡張２専用カラム</sys_name>
+            <sys_package display_value="Test2" source="x_1781293_test2">2f47c13183057210c386e5d0deaad340</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test2">2f47c13183057210c386e5d0deaad340</sys_scope>
+            <sys_update_name>sys_documentation_x_1781293_test2_task_test_1_u_2_ja</sys_update_name>
+            <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+            <sys_updated_on>2025-11-07 02:08:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test2">2f47c13183057210c386e5d0deaad340</application>
+        <file_path/>
+        <instance_id>0001c44e1b26719cc84543f4bd4bcb06</instance_id>
+        <instance_name>dev215086</instance_name>
+        <name>sys_documentation_x_1781293_test2_task_test_1_u_2_ja</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_2" label="タスク拡張２専用カラム" language="ja" table="x_1781293_test2_task_test_1"><sys_documentation action="INSERT_OR_UPDATE"><element>u_2</element><help/><hint/><label>タスク拡張２専用カラム</label><language>ja</language><name>x_1781293_test2_task_test_1</name><plural>タスク拡張２専用カラム</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin_fujisawa_shouma</sys_created_by><sys_created_on>2025-11-07 02:08:46</sys_created_on><sys_id>cecc09f583057210c386e5d0deaad38a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>タスク拡張２専用カラム</sys_name><sys_package display_value="Test2" source="x_1781293_test2">2f47c13183057210c386e5d0deaad340</sys_package><sys_policy/><sys_scope display_value="Test2">2f47c13183057210c386e5d0deaad340</sys_scope><sys_update_name>sys_documentation_x_1781293_test2_task_test_1_u_2_ja</sys_update_name><sys_updated_by>admin_fujisawa_shouma</sys_updated_by><sys_updated_on>2025-11-07 02:08:46</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+        <payload_hash>-516156905</payload_hash>
+        <record_name>x_1781293_test2_task_test_1.u_2</record_name>
+        <reverted_from/>
+        <source>2347c13183057210c386e5d0deaad344</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-07 02:08:46</sys_created_on>
+        <sys_id>cecc09f583057210c386e5d0deaad38d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a5c12c81f0000001</sys_recorded_at>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-07 02:08:46</sys_updated_on>
+        <type>フィールドラベル</type>
+        <update_guid>4ecc09f5980572100499f608cc73f98c</update_guid>
+        <update_guid_history>4ecc09f5980572100499f608cc73f98c:-516156905</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-07 02:11:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_documentation">sys_documentation</sys_db_object>
+        <sys_id>7823ce9a7a8e49f6bedd7eef803d0389</sys_id>
+        <sys_metadata>cecc09f583057210c386e5d0deaad38a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>タスク拡張２専用カラム</sys_name>
+        <sys_package display_value="Test2" source="x_1781293_test2">2f47c13183057210c386e5d0deaad340</sys_package>
+        <sys_parent display_value="">e678cd3183057210c386e5d0deaad339</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test2">2f47c13183057210c386e5d0deaad340</sys_scope>
+        <sys_scope_delete display_value="">0030999999314128807a0d481ffdde44</sys_scope_delete>
+        <sys_update_name>sys_documentation_x_1781293_test2_task_test_1_u_2_ja</sys_update_name>
+        <sys_update_version display_value="sys_documentation_x_1781293_test2_task_test_1_u_2_ja">cecc09f583057210c386e5d0deaad38d</sys_update_version>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-07 02:11:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

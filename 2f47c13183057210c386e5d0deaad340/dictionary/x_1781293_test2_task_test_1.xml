@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="91fc0df583057210c386e5d0deaad35f" extends="task" label="タスク拡張２" max_length="40" name="x_1781293_test2_task_test_1" type="collection">
+        <element label="タスク拡張１専用カラム" max_length="40" name="u_1" type="boolean"/>
+    </element>
+</database>
